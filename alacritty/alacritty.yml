@@ -1,0 +1,9 @@
+font:
+  size: 10.0
+  normal:
+    family: Fira Code
+    style: Medium
+  bold:
+    family: Fira Code
+  italic:
+    family: Fira Code
