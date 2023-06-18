@@ -15,4 +15,4 @@
 * **NEOVIM** 
 
     - I found AstroNVIM and it changed my life, I no longer configure my own NVIM, I just use this. Game-changer.
-    - Link to <a href[https://github.com/AstroNvim/AstroNvim>AstroNVIM</a>
+    - Link to https://github.com/AstroNvim/AstroNvim>AstroNVIM
